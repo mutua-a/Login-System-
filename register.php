@@ -1,3 +1,12 @@
+<?php 
+
+    # include config file
+    
+
+
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
